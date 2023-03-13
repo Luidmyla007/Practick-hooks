@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Practick-hooks/static/css/main.a21c5092.css",
+    "main.js": "/Practick-hooks/static/js/main.b12ddd1a.js",
+    "index.html": "/Practick-hooks/index.html",
+    "main.a21c5092.css.map": "/Practick-hooks/static/css/main.a21c5092.css.map",
+    "main.b12ddd1a.js.map": "/Practick-hooks/static/js/main.b12ddd1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a21c5092.css",
+    "static/js/main.b12ddd1a.js"
+  ]
+}
